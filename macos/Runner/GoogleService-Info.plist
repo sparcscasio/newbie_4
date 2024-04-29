@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCr9nhApBR6dh7YimMbouJMP0ysLw5SmDU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>628938806890</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.complete</string>
+	<key>PROJECT_ID</key>
+	<string>flutterfire-ui-codelab-c0733</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterfire-ui-codelab-c0733.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:628938806890:ios:33d9f4728266ec668e5c13</string>
+</dict>
+</plist>
